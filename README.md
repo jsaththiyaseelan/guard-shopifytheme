@@ -24,7 +24,7 @@ Or install it yourself with:
 
 If you don't already have [shopify_theme](https://github.com/Shopify/shopify_theme) set up, create a `config.yml` file in your project directory (see [here](https://github.com/Shopify/shopify_theme#usage)):
 
-````yaml
+````
 ---
 :api_key: YOUR_API_KEY
 :password: YOUR_PASSWORD
